@@ -1,0 +1,19 @@
+Subject: Software Engineer Application - Vara Prasad Gudi
+
+Dear Jeff,
+
+My name is Vara Prasad Gudi, and I am a Master's student in Computer Science at the University of Massachusetts Amherst, graduating in May 2025. I was excited to see your opening for a Software Engineer position and believe my skills and experience align well with the requirements.
+
+In my recent co-op at Boehringer Ingelheim, I developed a fully automated batch record management system using NextJS, TypeScript, and PostgreSQL, resulting in significant efficiency gains. I am also proficient in Python, FastAPI, and Docker, and have experience building CI/CD pipelines and deploying applications on cloud platforms.
+
+I am passionate about developing innovative and scalable software solutions and eager to contribute to [Company Name]'s success. My resume, attached for your review, provides more details on my qualifications and accomplishments.
+
+Would you be open to a brief conversation to discuss my application further?
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Vara Prasad Gudi 
+
+
