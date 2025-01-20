@@ -8,10 +8,10 @@ langchain-core==0.3.29
 langchain-groq==0.2.3
 langdetect==1.0.9
 langsmith==0.2.10
-textract
+textract==1.6.3
 regex==2024.11.6
 requests==2.32.3
 gensim==3.8.3
-beautifulsoup4
+beautifulsoup4==4.8.0
 selenium==4.27.1
 urllib3==2.3.0
